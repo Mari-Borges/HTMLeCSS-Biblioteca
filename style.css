@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to right, rgb(179, 211, 218),  rgb(255, 255, 255) rgb(255, 252, 255))
+}
+header{
+    color: rgb(255, 255, 255);
+    background-color: rgb(30, 98, 209);
+    padding: 2px;
+}
+form{
+  position: relative;
+  top: 300px;
+  left: 250px;
+  right: 400px;
+}
+label{
+    padding: 5px;
+}
